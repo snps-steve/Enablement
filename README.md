@@ -54,7 +54,7 @@ Set up your environment variables in a `.env` file or let the script prompt you 
 Run the script:
 
 ```bash
-python script.py
+python licenses_and_terms.py
 ```
 
 ## Configuration
