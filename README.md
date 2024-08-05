@@ -32,7 +32,7 @@ pip install requests python-dotenv
 Clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/license-enumeration-script.git
+git clone https://github.com/snps-steve/license-enumeration-script.git
 ```
 
 Navigate to the project directory:
