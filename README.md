@@ -32,13 +32,13 @@ pip install requests python-dotenv
 Clone this repository:
 
 ```bash
-git clone https://github.com/snps-steve/license-enumeration-script.git
+git clone https://github.com/snps-steve/license-and-license-terms.git
 ```
 
 Navigate to the project directory:
 
 ```bash
-cd license-enumeration-script
+cd license-and-license-terms
 ```
 
 ## Usage
