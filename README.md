@@ -2,9 +2,9 @@
 
 ## Overview
 
-- analyzes the system to see what (if any) Python packages the script needs for execution are missing; prompts for installation.
-- authenticates with the Black Duck API
-- retrieves license data and associated license terms and allows exporting results to either JSON or CSV format.
+- Analyzes the system to see what (if any) Python packages the script needs for execution are missing; prompts for installation.
+- Authenticates with the Black Duck API
+- Retrieves Black Duck license data and associated license terms and allows exporting results in either the JSON or CSV format.
 
 The script requires configuration of API details, which can be provided via a `.env` file or entered interactively.
 
